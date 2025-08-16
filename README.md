@@ -74,4 +74,3 @@ Richard Dean Tanjaya
 
 ## 📝 License
 Proyek ini bersifat open-source dan bebas digunakan untuk keperluan edukasi dan penelitian.
-
